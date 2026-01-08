@@ -26,10 +26,6 @@ I am a software developer focused on building robust and scalable web applicatio
   - ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
   - ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[ahmedyogi]&show_icons=true&theme=dark)
 
 ---
 

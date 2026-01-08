@@ -29,7 +29,7 @@ I am a software developer focused on building robust and scalable web applicatio
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Your_Username_Here]&show_icons=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[ahmedyogi]&show_icons=true&theme=dark)
 
 ---
 
